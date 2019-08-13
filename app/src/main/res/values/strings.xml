@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">AnakKostApp</string>
+    <string name="about_this_aplication">About This Aplication</string>
+    <string name="ini_view_pager">Ini View Pager</string>
+    <string name="this_is_main_page">This is main page</string>
+    <string name="aboutthisap" />
+    <string name="main" />
+    <string name="main_view">Main View</string>
+    <string name="about_this_application">About This Application</string>
+    <string name="ini_merupakan_sebuah_app_sederhana_yang_dibuat_untuk_menampilkan_daftar_teman_dan_melihat_profil_anda">ini merupakan sebuah App sederhana yang dibuat untuk menampilkan daftar teman dan melihat profil anda.</string>
+    <string name="todo">TODO</string>
+    <string name="chike_mgbemena">Chike Mgbemena</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+    <string name="title_activity_main_menu">MainActivityMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="swap_kekiri_untuk_melanjutkan">Swap kekiri untuk melanjutkan</string>
+    <string name="selamat_datang_di_aplikasi_anakkost_aplikasi_ini_dibuat_untuk_memenuhi_tugas_kuliah_saja_sehingga_nama_anakkost_disini_hanya_sekedar_nama_aplikasinya_saja">Selamat Datang Di aplikasi AnakKost Aplikasi ini dibuat untuk memenuhi tugas kuliah saja sehingga nama AnakKost disini hanya sekedar nama aplikasinya saja</string>
+    <string name="saya_mengerti">Saya Mengerti</string>
+
+    <string name="title_home">Profil</string>
+    <string name="title_dashboard">Kontak</string>
+    <string name="title_notifications">Daftar Teman</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">profil</string>
+    <string name="slide_1_desc">Anda dapat Menambah kontak teman anda seperti Telepon, Email ataupun Media Sosial Pribadi</string>
+
+    <string name="slide_2_title">Kontak</string>
+    <string name="slide_2_desc">Anda juga Dapat Mengubah dan Menghapus Kontak Teman Anda</string>
+
+    <string name="slide_3_title">WISATA</string>
+    <string name="slide_3_desc"></string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+    <string name="lihat_profil_anda_seperti_alamat_email_dan_sosial_media">Anda Bahkan Dapat Melihat Daftar Teman yang Sudah Anda Tambahkan</string>
+
+    <string name="profile">Nim           : 10116035 </string>
+    <string name="profile2">Nama          : Prabowo Adi Perwira </string>
+    <string name="profile3">Saya Hanyalah seorang mahasiswa biasa
+                                           yang selalu berharap sesuatu yang tidak
+                                           Mungkin Terjadi pada diri saya</string>
+    <string name="title_activity_kontak">kontak</string>
+    <string name="matching">Profil</string>
+    <string name="watchlist">Kontak</string>
+    <string name="rates">Teman</string>
+    <string name="home">Profil</string>
+    <string name="search">Kontak</string>
+    <string name="favorite">Daftar Teman</string>
+    <string name="account">Logout</string>
+    <string name="profil_saya">PROFIL PEMBUAT</string>
+    <string name="xanpbw">XanPbw</string>
+    <string name="kontak_saya">Kontak Pembuat</string>
+    <string name="xan_pbw">Xan Pbw</string>
+    <string name="xanpbw_9339">xanpbw#9339</string>
+    <string name="title_activity_login">Sign_in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_reg">Daftar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_sign_up">Sign_Up</string>
+    <string name="login">Login</string>
+    <string name="daftar">Daftar</string>
+    <string name="selamat_datang_di_aplikasiku">selamat datang di Aplikasiku</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="masuk_sebagai">Masuk sebagai</string>
+    <string name="tambahkan_kontak_anda">Tambahkan Kontak Anda</string>
+    <string name="masukkan_telepon">Masukkan Telepon</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_nama_media_sosial_pribadi">Masukkan Nama Sosmed Pribadi</string>
+    <string name="masukkan_kelas">Masukkan Kelas</string>
+    <string name="masukkan_nim">Masukkan NIM</string>
+    <string name="masukkan_nama_mahasiswa">Masukkan Nama Mahasiswa</string>
+    <string name="simpan">Simpan</string>
+    <string name="lihat_mahasiswa">Lihat Kontak Anda</string>
+
+
+</resources>
